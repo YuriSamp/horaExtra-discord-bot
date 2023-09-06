@@ -1,0 +1,15 @@
+.vscode
+.lapce
+
+node_modules
+dist
+coverage
+logs
+
+.env
+
+TODO.md
+.idea
+
+output.log
+error.log
